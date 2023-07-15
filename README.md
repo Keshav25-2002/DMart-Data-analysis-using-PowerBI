@@ -33,3 +33,18 @@ To enhance the project, consider the following improvements:
 5. Performance optimization: As the data grows in size, optimize the performance of your Power BI reports and dashboards. Techniques such as data compression, partitioning, and aggregations can help improve query response times and overall performance.
 
 6. User feedback and iteration: Gather feedback from users and stakeholders to understand their needs and continuously improve the analysis. Incorporate user feedback to refine the visualizations, add new features, or address any usability concerns.
+
+
+
+PROJECT DEMONSTRATION: 
+
+1. UNITED KINGDOM:
+
+
+![UK](https://github.com/Keshav25-2002/DMart-Data-analysis-using-PowerBI/assets/85608027/da6000dd-1564-4e02-8c27-68aadd7e0154)
+
+
+2. GERMANY:
+
+
+![germany](https://github.com/Keshav25-2002/DMart-Data-analysis-using-PowerBI/assets/85608027/02e59898-9195-4a43-b4d6-8c3afd4b4276)
